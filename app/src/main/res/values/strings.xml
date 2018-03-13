@@ -2,4 +2,5 @@
     <string name="app_name">GuessingGame</string>
     <string name="welcome_to_android">Welcome to Android!</string>
     <string name="button">Button</string>
+    <string name="choose_a_number_between_1_and_100_you_have_five_attempts_to_guess_the_correct_number">Choose a number between 1 and 100. You have five attempts to guess the correct number.</string>
 </resources>
